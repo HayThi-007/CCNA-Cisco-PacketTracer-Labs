@@ -9,7 +9,7 @@ A practical implementation comparing **3 different Inter-VLAN Routing techniques
 
 ## 📐 Topology & Addressing Plan
 
-![Network Topology](./topology.png)
+![Network Topology](topology.png)
 
 ### VLAN & Subnet Scheme
 | VLAN | Name | Subnet Network | Default Gateway |
