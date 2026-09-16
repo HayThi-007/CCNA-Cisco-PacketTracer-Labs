@@ -9,6 +9,7 @@ An enterprise-grade campus network topology designed in **Cisco Packet Tracer**,
 This design represents a 4-switch campus infrastructure connected in a redundant ring topology to provide layer 2 resiliency while avoiding switching loops.
 
 ![Enterprise Topology](topology.png)
+<img width="966" height="537" alt="topology " src="https://github.com/user-attachments/assets/850f6f0e-2224-49f5-a189-a08d7472aadc" />
 
 ### Key Features
 * **VLAN Segmentation:** 4 distinct departments isolated at Layer 2.
