@@ -1,4 +1,4 @@
-# CCNA Enterprise Campus Network: STP & Inter-VLAN Routing (ROAS)
+# CCNA Enterprise Lab: VLAN_Trunking
 
 An enterprise-grade campus network topology designed in **Cisco Packet Tracer**, featuring multi-switch VLAN segmentation, **Spanning Tree Protocol (STP)** loop prevention, **802.1Q Trunking**, and **Router-on-a-Stick (ROAS)** Inter-VLAN routing.
 
