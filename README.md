@@ -9,7 +9,7 @@ An enterprise-grade campus network topology designed in **Cisco Packet Tracer**,
 This design represents a 4-switch campus infrastructure connected in a redundant ring topology to provide layer 2 resiliency while avoiding switching loops.
 
 ![Enterprise Topology](topology.png)
-<img width="966" height="537" alt="topology " src="https://github.com/user-attachments/assets/656461bd-9c04-4c90-8c54-e677e9960567" />
+
 
 
 
